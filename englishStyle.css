@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 .ng-valid.required,.ng-valid[required]{border-left:3px solid #42a948!important}
 .ng-invalid:not(form){border-left:3px solid #a94442!important}
 legend.scheduler-border{font-size:16px!important;font-weight:600!important;text-align:left!important;width:auto;padding:0 10px;border-bottom:none;margin-bottom:5px!important}
 .alert-danger{font-size:12px!important}
+=======
+.ng-valid.required,.ng-valid[required]{border-left:3px solid #42a948!important}
+.ng-invalid:not(form){border-left:3px solid #a94442!important}
+legend.scheduler-border{font-size:16px!important;font-weight:600!important;text-align:left!important;width:auto;padding:0 10px;border-bottom:none;margin-bottom:5px!important}
+.alert-danger{font-size:12px!important}
+>>>>>>> bc4f380af55dfb945919624fd8fa8511622bfc45
 label{text-align:left!important}
